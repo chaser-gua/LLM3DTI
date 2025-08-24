@@ -1,2 +1,2 @@
 # TE-DTI
-The official implementation of TE-DTI：A Text Semantics Enhanced Framework for Drug-Target Interaction Prediction with Cross Attention and Pretraining Text Understanding Language Model.
+The official implementation of LLM$^3$-DTI： "A Large Language Model and Multi-modal data co-powered framework for Drug-Target Interaction prediction".
